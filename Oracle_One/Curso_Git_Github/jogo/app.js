@@ -1,6 +1,6 @@
 // Criacao de uma lista vazia
 let listaNumeroAleatoerio = [];
-let numeroLimite =  10;
+let numeroLimite =  50;
 
 let numeroAleatorio = gerarNumeroAleatorio();
 console.log(numeroAleatorio);
