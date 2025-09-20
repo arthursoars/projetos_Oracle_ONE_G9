@@ -7,7 +7,7 @@ console.log(numeroAleatorio);
 let tentativas = 1;
 
 
-// Funcao com paramentros
+// Funcao com paramentross
 function exibirNome(tag, texto){
     let campo = document.querySelector(tag);
     campo.innerHTML = texto;
